@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -12,6 +12,12 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+## Bonus Features
+
+The following **bonus** functionality is completed:
+
+- [x] Users are able to bold labels by clicking a button
  
 ## Video Walkthrough
 
