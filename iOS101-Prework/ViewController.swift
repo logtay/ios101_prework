@@ -33,6 +33,7 @@ class ViewController: UIViewController {
 
         return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
     }
+    // function to bold label fonts
     
     @IBAction func changeFontFace(_ sender: UIButton) {
         let boldFont = makeBold()
