@@ -37,6 +37,7 @@ class ViewController: UIViewController {
     @IBAction func changeFontFace(_ sender: UIButton) {
         let boldFont = makeBold()
         
+        
         nameLabel.font = boldFont
         schoolLabel.font = boldFont
         jobLabel.font = boldFont
