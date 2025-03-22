@@ -27,11 +27,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 1. Spotify
-- feature
+- Saving songs and podcasts for offline listening
+- Creating different playlists that can be private or public
+- Receiving daily mixes and recommendations based on your listening
 2. Poshmark
-- feature
+- Like an item to save it for later
+- "Reposh"/Resell an item you previously bought on Poshmark
+- Receive alerts when an item you like drops in price or was sold
 3. Pinterest
-- feature
+- Create private or public Pinterest boards
+- Create joint boards that you can collaborate on with friends
+- View the source of a pin
+- Get suggestions for similar pins
 
 **App Idea**
 
