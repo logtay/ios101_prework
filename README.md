@@ -1,6 +1,6 @@
 # Prework - *Color Swap App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Taylor Femat**
 
 **Color Swap App** is an app that allows the user to change the background color and font face of the labels in the app. 
 
@@ -45,11 +45,11 @@ I am interested in building an app with pet owners in mind, specifically dogs an
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My main challenge was familiarizing myself with Xcode. I am used to working with other editors, such as PyCharm and VSCode, so changing to something that I had never used before took some adjusting. Most of the time I spent on the app was spent clicking around and figuring out how to navigate. I also had issues with connecting my GitHub account and then figuring out how to commit and push the app that I made. 
 
 ## License
 
-    Copyright 2025 [name of copyright owner]
+    Copyright 2025 Taylor Femat
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
